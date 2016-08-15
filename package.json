@@ -1,6 +1,6 @@
 {
   "name": "nodeutils",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A collection of node utilities",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,10 @@
   "keywords": [
     "nodeutils",
     "node",
-    "utilities"
+    "utilities",
+    "reqhere",
+    "defaultsDeep",
+    "defaults-deep"
   ],
   "author": "Drew Llewellyn <drew@drew.pro> (http://drew.pro)",
   "license": "ISC",
@@ -22,6 +25,7 @@
   },
   "homepage": "https://github.com/nodeutils/nodeutils#readme",
   "dependencies": {
-    "@nodeutils/reqhere": "^1.0.1"
+    "@nodeutils/reqhere": "^1.0.1",
+    "@nodeutils/defaults-deep": "^1.0.0"
   }
 }

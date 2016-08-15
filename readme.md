@@ -6,3 +6,9 @@ Simple straightforward tool to allow you to require locally. [Read More](https:/
 ```
 const reqhere = require("nodeutils").reqhere;
 ```
+
+## defaultsDeep
+Like lodash's defaultsDeep, but with preservation of arrays. [Read More](https://www.npmjs.com/package/@nodeutils/defaults-deep)
+```
+const reqhere = require("nodeutils").defaultsDeep;
+```
