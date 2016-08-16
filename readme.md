@@ -11,7 +11,7 @@ $ npm install nodeutils --save
 
 ## Usage
 
-Every nodeutils package is available as a poperty of nodeutils, in camelCase. Example:
+Every nodeutils package is available as a poperty of nodeutils, in camelCase.
 
 # Packages
 
