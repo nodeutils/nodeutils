@@ -26,6 +26,6 @@
   "homepage": "https://github.com/nodeutils/nodeutils#readme",
   "dependencies": {
     "@nodeutils/reqhere": "^1.0.3",
-    "@nodeutils/defaults-deep": "^1.0.2"
+    "@nodeutils/defaults-deep": "^1.0.3"
   }
 }
