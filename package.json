@@ -1,11 +1,14 @@
 {
   "name": "nodeutils",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "description": "A collection of node utilities",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Each package has its own test\" && exit 1"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nodeutils/nodeutils.git"
@@ -25,7 +28,7 @@
   },
   "homepage": "https://github.com/nodeutils/nodeutils#readme",
   "dependencies": {
-    "@nodeutils/reqhere": "^1.0.5",
-    "@nodeutils/defaults-deep": "^1.0.4"
+    "@nodeutils/reqhere": "^1.1.0",
+    "@nodeutils/defaults-deep": "^1.1.0"
   }
 }
