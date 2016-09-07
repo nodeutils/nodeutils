@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Each package has its own test\" && exit 1"
   },
-  "files": [
-    "index.js"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nodeutils/nodeutils.git"
